@@ -1,10 +1,11 @@
 // function to generate markdown for README
 function generateMarkdown(answers) {
+  // Everything between the backticks will be on the README
   return `
   # ${answers.title}
 
   [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-  [![license-badge](https://img.shields.io/badge/License-${answers.badge}-red.svg)](https://shields.io/)
+  [![license-badge](https://img.shields.io/badge/License-${answers.license}-red.svg)](https://shields.io/)
   ## Description
 
   ${answers.description}
@@ -27,7 +28,7 @@ function generateMarkdown(answers) {
   
   ## License
 
-  ${answers.license}
+  This project is covered under the ${answers.license} License.
 
   ## Contributing
 
@@ -50,5 +51,5 @@ function generateMarkdown(answers) {
 
 `;
 }
-
+// Send this newly completed README back to the Index to create the file
 module.exports = generateMarkdown;
