@@ -3,6 +3,8 @@ function generateMarkdown(answers) {
   return `
   # ${answers.title}
 
+  [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+  [![license-badge](https://img.shields.io/badge/License-${answers.badge}-red.svg)](https://shields.io/)
   ## Description
 
   ${answers.description}
