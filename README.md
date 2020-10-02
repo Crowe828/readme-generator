@@ -19,7 +19,8 @@ A command-line application that will allow for the quick generation of a high-qu
 
 ## Images
 
-
+- This GIF demonstrates the functionality of this applciation.
+  ![README GIF](https://github.com/Crowe828/readme-generator/blob/master/images/readme-generator.gif)
 
 - This is what all of the prompts look like if they are completed correctly.
   ![README Prompts](https://github.com/Crowe828/readme-generator/blob/master/images/readme-generator-prompts.png)
