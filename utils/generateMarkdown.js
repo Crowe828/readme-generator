@@ -11,6 +11,7 @@ function generateMarkdown(answers) {
   ${answers.description}
 
   ## Table of Contents
+  * [Images](#images)
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
@@ -18,6 +19,10 @@ function generateMarkdown(answers) {
   * [Tests](#tests)
   * [Questions](#tests)
 
+  ## Images
+
+
+  
   ## Installation
 
   ${answers.installation}

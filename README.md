@@ -9,12 +9,24 @@ A command-line application that will allow for the quick generation of a high-qu
 
 ## Table of Contents
 
+- [Images](#images)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#tests)
+
+## Images
+
+- This GIF demonstrates the functionality of this applciation.
+  ![README GIF](https://github.com/Crowe828/readme-generator/blob/master/images/readme-generator.gif)
+
+- This is what all of the prompts look like if they are completed correctly.
+  ![README Prompts](https://github.com/Crowe828/readme-generator/blob/master/images/readme-generator-prompts.png)
+
+- This is what a fully-generated README will resemble.
+  ![Generated README](https://github.com/Crowe828/readme-generator/blob/master/images/generated-readme.png)
 
 ## Installation
 
@@ -43,6 +55,6 @@ The console will display the word 'test'
 
 If you would like to learn more, feel free to check out my GitHub or send me an email anytime.
 
-- [GitHub](https://github.com/Crowe828)
+- [GitHub](https://github.com/crowe828)
 - [Repo](https://github.com/Crowe828/readme-generator)
 - [Email Me](mailto:crowe828@gmail.com?subject=Nice%20README%20Generator%20Dude)
